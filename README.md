@@ -39,10 +39,10 @@ List of orders
 </ul>
 
 ## Screenshots
-![Login](https://github.com/DhiWise/Order-Management-Portal/blob/main/src/assets/images/login.png) 
-![Dashboard](https://github.com/DhiWise/Order-Management-Portal/blob/main/src/assets/images/dashboard.png) 
-![Pdf](https://github.com/DhiWise/Order-Management-Portal/blob/main/src/assets/images/pdf.png) 
-![Sort](https://github.com/DhiWise/Order-Management-Portal/blob/main/src/assets/images/sort.png) 
+![Login](https://github.com/DhiWise/Order-Management-Portal/blob/master/src/assets/images/login.png) 
+![Dashboard](https://github.com/DhiWise/Order-Management-Portal/blob/master/src/assets/images/dashboard.png) 
+![Pdf](https://github.com/DhiWise/Order-Management-Portal/blob/master/src/assets/images/pdf.png) 
+![Sort](https://github.com/DhiWise/Order-Management-Portal/blob/master/src/assets/images/filter.png) 
 
 # Setup
 
